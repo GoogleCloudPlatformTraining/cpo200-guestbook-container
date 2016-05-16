@@ -1,2 +1,2 @@
-# cpo200-guestbook-container
-Used in the CPO200 course - This repository contains the contents for the CPO200 course repository 'guestbook-container'
+# cpo200-repository-02
+Used in the CPO200 course - Sets up the repository-02 project.
